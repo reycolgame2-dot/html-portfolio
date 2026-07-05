@@ -4,7 +4,7 @@ A simple HTML-only portofolio website built for the roadmap.sh Basic HTML Websit
 
 ## Project URL
 
-https://roadmap.sh/projects/basic-html-website
+https://github.com/reycolgame2-dot/html-portfolio
 
 ## Features
 
@@ -20,3 +20,11 @@ https://roadmap.sh/projects/basic-html-website
 - Projects
 - Articles
 - Contact
+
+## Live Demo
+
+https://github.com/reycolgame2-dot/html-portfolio
+
+## Project URL
+
+https://github.com/reycolgame2-dot/html-portfolio
